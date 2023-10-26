@@ -1,0 +1,11 @@
+{
+  "install_files": {
+    "path_ci": "",
+    "path_local": "/users/ievgenbarakhtian/Downloads/",
+    "apk_name": "Headway.apk",
+    "app_name": ".app"
+  },
+  "logger": {
+    "displayMessages": false
+  }
+}
